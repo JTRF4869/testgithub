@@ -1,3 +1,7 @@
 Test
 For another test 2
+<<<<<<< HEAD
 What if?
+=======
+Master after branch
+>>>>>>> master
